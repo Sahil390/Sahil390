@@ -1,9 +1,30 @@
-<h1 align="center">Hi 👋, I'm Sahil Narang</h1>
-<h3 align="center">I am a Btech CSE student and I am eager to learn more and explore myself.</h3>
+# Sahil Narang 👋
 
-- 🔭 I’m in my 1st year in the Btech CSE course in UPES, Dehradun.
-- 🌱 I’m presently learning  C language.
-- 💬My hobbies are Badminton
+**Hi there! I'm Sahil Narang**, a passionate Computer Science student currently pursuing my B.Tech in CSE from UPES, Dehradun. I have a keen interest in **software development**, and I'm constantly learning new skills to enhance my programming and problem-solving abilities.
 
-- ⚡ Fun fact about me:   I started coding from c++ at the age of 10
+### 👨‍💻 About Me
 
+- 🌍 Based in **Rishikesh, India**
+- 🎓 2nd Year B.Tech CSE Student at **UPES Dehradun**
+- 🌱 Currently learning **Data Structures, Algorithms, Linux, and Django**
+- 🎯 Working on improving my **full-stack web development** skills
+- 💼 Looking to participate in **hackathons** and **collaborative projects**
+
+### 💼 Skills
+
+- **Languages:** Python, C
+- **Web Development:** HTML, CSS, JavaScript, React, Django
+- **Databases:** MySQL
+- **Tools & Frameworks:** Git, Linux
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow (Basics)
+
+### 🔭 What I’m working on
+
+- 🔧 Strengthening my **web development** skills with **Django** and **React**
+- 🌐 Exploring **hackathons** and **open-source contributions**
+- 💻 Building full-stack projects to apply my learning
+
+### 📫 How to reach me
+
+- Email: [snarang445566@gmail.com](mailto:snarang445566@gmail.com)
+- LinkedIn: [linkedin.com/in/sahilnarang](https://www.linkedin.com/in/sahil-narang-6600b11bb/)
