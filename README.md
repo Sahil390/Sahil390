@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 - 🌍 Based in **Rishikesh, India**
-- 🎓 2nd Year B.Tech CSE Student at **UPES Dehradun**
+- 🎓 Pre Final Year B.Tech CSE Student at **UPES Dehradun**
 - 🌱 Currently learning **Data Structures, Algorithms, Linux, and Django**
 - 🎯 Working on improving my **full-stack web development** skills
 - 💼 Looking to participate in **hackathons** and **collaborative projects**
